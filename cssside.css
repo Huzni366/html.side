@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #cd7979;
+}
+
+header {
+    background-color: #ce5e5e;
+    color: rgb(80, 171, 198);
+    padding: 20px;
+    height: 100px;
+    text-align: center;
+}
+
+nav {
+    background-color: hsl(210, 66%, 61%);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(141, 109, 109);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: rgba(237, 237, 237, 0.395);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #317bc4;
+    color: rgb(237, 56, 56);
+    text-align: center;
+    padding: 10px;
+}
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    background-image: url("NARotu.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header {
+    background-color: rgb(0, 0, 0);
+    color: rgb(13, 199, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+header h1, header p {
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 10px;
+}
